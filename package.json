@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/devydk/API-NodeJS/issues"
   },
-  "homepage": "https://github.com/devydk/API-NodeJS#readme"
+  "homepage": "https://github.com/devydk/API-NodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.10"
+  }
 }
